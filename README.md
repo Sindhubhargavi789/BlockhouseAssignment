@@ -64,8 +64,3 @@ This application reconstructs a Market By Price (MBP) order book from a Market B
 ---
 
 
-
-- **Extensibility:**  
-  The code is modular and can be extended for more advanced analytics or different output formats.
-
----
